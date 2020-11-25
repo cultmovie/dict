@@ -1,1 +1,1 @@
-从redis剥离出来的dict
+从redis源码剥离出来的dict
